@@ -14,6 +14,3 @@ filename = fN; % save the figure using filename fN and close it
 print(filename,'-dpng')
 close
 end
-% folderToSave = 'C:\Users\canda\OneDrive\Belgeler\MATLAB\sequencesOpticalFlowResults\1';
-% baseFileName = sprintf('Figure %d', loopIndex);
-% fullFileName = fullfile(folderToSave, baseFileName);
